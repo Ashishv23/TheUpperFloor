@@ -1,10 +1,13 @@
-# flutter_template
+# The Upper Floor
 
-A new Flutter project.
+Project to provide daily bible reading to users.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application that follows the
+This project is a starting point for a Flutter application that follows the+
+
+- Daily verse of bible reading and summary.
+
 [simple app state management
 tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
 
